@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Morningstar 4K Wallpapers</string>
+    <string name="back">Zurück</string>
+    <string name="next">Vor</string>
+    <string name="download">Download</string>
+    <string name="set_wallpaper">Wallpaper</string>
+</resources>

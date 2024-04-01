@@ -1,0 +1,6 @@
+<!-- res/drawable/border_gold.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#000000"/> <!-- Hintergrundfarbe -->
+    <corners android:radius="2dp" /> <!-- Eckenradius -->
+    <stroke android:color="#FFD700" android:width="2dp"/> <!-- Randfarbe und -breite -->
+</shape>
